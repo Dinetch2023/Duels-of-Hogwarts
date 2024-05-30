@@ -18,40 +18,40 @@
 
 ### ✨ [Demo](hool-2024-02/JS-RemoteFR-CrewDragon-P2-Team2)
 
-## Install
+## Installation
 
 ```sh
 npm install
 ```
 
-## Run tests
+## Démarrage
 
 ```sh
 npm run test
 ```
 ## Fabriqué avec
-* [HTML](http://materializecss.com) - Framework CSS (front-end)
-* [JavaScript](https://atom.io/) - Editeur de textes
-* [REACT](http://materializecss.com) - Framework CSS (front-end)
-* [NodeJS](https://atom.io/) - Editeur de textes
-* [Tailwind Css](http://materializecss.com) - Framework CSS (front-end)
-* [Figma](https://atom.io/) - Editeur de textes
-* * [Canva](http://materializecss.com) - Framework CSS (front-end)
-* [Github](https://atom.io/) - Editeur de textes
-* [Git](http://materializecss.com) - Framework CSS (front-end)
+* [HTML](https://developer.mozilla.org/fr/docs/Web/HTML) - Langage de balisage
+* [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript) -  Langage de programmation de scripts
+* [REACT](https://fr.react.dev/) - Librairie JavaScript pour créer des interfaces utilisateurs
+* [NodeJS](https://nodejs.org/en) -  Plateforme logicielle libre en JavaScript
+* [Tailwind Css](https://tailwindcss.com/) - Framework CSS (front-end)
+* [Figma](https://www.figma.com/fr-fr/about/) - Outil de design collaboratif
+* [Canva](https://www.canva.com/fr_fr/about/) - Outil de design et de communication visuelle en ligne
+* [Github](https://github.com/) - Service web d'hébergement et de gestion de développement de logiciels
+* [Git](https://git-scm.com/) -  Logiciel de gestion de versions
 
 
-## Author
+## Auteurs
 
-👤  Kelly BECK, Amandine ETCHART Vincent PASQUIOU, David LANZETTI, Jeviraj JEYARATNAM
+👤  Kelly BECK, Amandine ETCHART, Vincent PASQUIOU, David LANZETTI, Jeviraj JEYARATNAM
 
 ## 💼  LinkedIn username 
 kelly-jeanne-beck, amandineetchartdinetch, vincentpasquiou, david-lanzetti-b70666195
 
 
-## Show your support
+## Montrez votre soutien
 
-Give a ⭐️ if this project helped you!
+Donnez une ⭐️ si ce projet vous a aidé !
 
 ## 📝 License
 
