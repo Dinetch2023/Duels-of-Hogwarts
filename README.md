@@ -5,7 +5,6 @@
  <img alt="Image Poudlards" src="https://github.com/Dinetch2023/Duels-of-Hogwarts/blob/dev/client/src/assets/images/Harrypotter.png">
 </picture>
 
-(https://github.com/Dinetch2023/Duels-of-Hogwarts/blob/dev/client/src/assets/images/Harrypotter.png)
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/team2/team2#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
