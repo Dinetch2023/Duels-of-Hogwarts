@@ -1,7 +1,11 @@
-<h1 align="center">Welcome to Duels of Hogwarts 👋
-<img alt="" src="C:\Users\amand\Downloads\Harrypotter.png"/></h1>
+<h1 align="center">Welcome to Duels of Hogwarts 👋</h1>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dinetch2023/Duels-of-Hogwarts/blob/dev/client/src/assets/images/Harrypotter.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dinetch2023/Duels-of-Hogwarts/blob/dev/client/src/assets/images/Harrypotter.png">
+ <img alt="Image Poudlards" src="https://github.com/Dinetch2023/Duels-of-Hogwarts/blob/dev/client/src/assets/images/Harrypotter.png">
+</picture>
 
-<p>
+(https://github.com/Dinetch2023/Duels-of-Hogwarts/blob/dev/client/src/assets/images/Harrypotter.png)
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/team2/team2#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
