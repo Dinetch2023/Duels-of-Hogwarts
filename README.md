@@ -29,19 +29,25 @@ npm install
 ```sh
 npm run test
 ```
+## Fabriqué avec
+* [HTML](http://materializecss.com) - Framework CSS (front-end)
+* [JavaScript](https://atom.io/) - Editeur de textes
+* [REACT](http://materializecss.com) - Framework CSS (front-end)
+* [NodeJS](https://atom.io/) - Editeur de textes
+* [Tailwind Css](http://materializecss.com) - Framework CSS (front-end)
+* [Figma](https://atom.io/) - Editeur de textes
+* * [Canva](http://materializecss.com) - Framework CSS (front-end)
+* [Github](https://atom.io/) - Editeur de textes
+* [Git](http://materializecss.com) - Framework CSS (front-end)
+
 
 ## Author
 
-👤  Kelly, Amandine, Vincent, David
-
-* Github: [@team2](https://github.com/team2)
+👤  Kelly BECK, Amandine ETCHART Vincent PASQUIOU, David LANZETTI, Jeviraj JEYARATNAM
 
 ## 💼  LinkedIn username 
 kelly-jeanne-beck, amandineetchartdinetch, vincentpasquiou, david-lanzetti-b70666195
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/team2/team2/issues). You can also take a look at the [contributing guide](https://github.com/team2/team2/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
